@@ -17,4 +17,5 @@ This repository contains my learning progress in Linux and Cloud fundamentals.
 - Accessed web server from Windows browser
 
 ## Goal
-To become a Cloud Engineer (AWS/Azure)
+
+To build Linux fundamentals for entry-level IT Support, Infrastructure Support, NOC, and Cloud Support roles.
